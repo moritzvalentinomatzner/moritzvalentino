@@ -6,51 +6,6 @@ layout: default
 
 Hier findest du eine Auswahl von Artikeln und Projekten an denen ich gerne gearbeitet habe, einen unvollständigen Lebenslauf, einen Kurs zu Kritischer Data Science, den ich an der FU gehalten habe. Und ganz am Ende findest du die Möglichkeit, mich zu kontaktieren. Viel Spaß 👻
 
-<details>
-<summary> # Über mich 🌸 </summary>
-Ich habe Politikwissenschaft und Volkswirtschaftslehre in Berlin, Paris und Chicago studiert. Während meinem Master war ich Stipendiat der Studienstiftung des deutschen Volkes. Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin unterrichtet, Lehrstuhl für Internationale und Vergleichende Politische Ökonomie, Otto-Suhr-Institut für Politikwissenschaft. Davor habe ich acht Jahre als freier Mitarbeiter bei DW News gearbeitet und am  Wissenschaftszentrum Berlin ein DFG-Projekt zu [Arbeitsrechten in internationalen Handelsabkommen unterstützt](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13285). 
-
-**Was mir Spaß macht:**
-* Analyse und Visualisierung von Daten in R mit einem besonderes Interesse an räumlichen Daten (Vektor und Raster). 
-* Deskriptive und grundlegende inferentielle Statistik. 
-* Netzwerkanalyse und multivariate
-Regressionsanalysen. 
-* Grundlegendes Arbeiten mit Methoden des Natural Language Processing.
-* Webscraping mit und ohne APIs.
-</details>
-
-<details>
-<summary> 
-# Über mich 🌸 
-</summary>
-Ich habe Politikwissenschaft und Volkswirtschaftslehre in Berlin, Paris und Chicago studiert. Während meinem Master war ich Stipendiat der Studienstiftung des deutschen Volkes. Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin unterrichtet, Lehrstuhl für Internationale und Vergleichende Politische Ökonomie, Otto-Suhr-Institut für Politikwissenschaft. Davor habe ich acht Jahre als freier Mitarbeiter bei DW News gearbeitet und am  Wissenschaftszentrum Berlin ein DFG-Projekt zu [Arbeitsrechten in internationalen Handelsabkommen unterstützt](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13285). 
-
-**Was mir Spaß macht:**
-* Analyse und Visualisierung von Daten in R mit einem besonderes Interesse an räumlichen Daten (Vektor und Raster). 
-* Deskriptive und grundlegende inferentielle Statistik. 
-* Netzwerkanalyse und multivariate
-Regressionsanalysen. 
-* Grundlegendes Arbeiten mit Methoden des Natural Language Processing.
-* Webscraping mit und ohne APIs.
-</details>
-
-<details>
-<summary> 
-
-# Über mich 🌸 
-</summary>
-Ich habe Politikwissenschaft und Volkswirtschaftslehre in Berlin, Paris und Chicago studiert. Während meinem Master war ich Stipendiat der Studienstiftung des deutschen Volkes. Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin unterrichtet, Lehrstuhl für Internationale und Vergleichende Politische Ökonomie, Otto-Suhr-Institut für Politikwissenschaft. Davor habe ich acht Jahre als freier Mitarbeiter bei DW News gearbeitet und am  Wissenschaftszentrum Berlin ein DFG-Projekt zu [Arbeitsrechten in internationalen Handelsabkommen unterstützt](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13285). 
-
-**Was mir Spaß macht:**
-* Analyse und Visualisierung von Daten in R mit einem besonderes Interesse an räumlichen Daten (Vektor und Raster). 
-* Deskriptive und grundlegende inferentielle Statistik. 
-* Netzwerkanalyse und multivariate
-Regressionsanalysen. 
-* Grundlegendes Arbeiten mit Methoden des Natural Language Processing.
-* Webscraping mit und ohne APIs.
-</details>
-
-
 # Artikel 🌸
 **Berliner Bildungskrise: Die Klassenfrage. Tagesspiegel, August 2023** Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule mus, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Screenshot vom Artikel. 
 ![Alt text for broken image link](assets/img/lehrkraefte.png)
@@ -81,5 +36,17 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
 
 **Beschreibung**. Der Kurs macht Studierende mit Grundkenntnissen des Programmierens und dem Sammeln, Visualisieren und Analysieren von Daten in der Scriptsprache R vertraut. Doch das Sammeln und Analysieren von Daten ist intim mit einer Geschichte von Diskrimierung, Ausbeutung und Unterdrückung verwoben. Es ist und war vor allem ein Instrument der Mächtigen: Weiße Kolonialisten, welche die Produktivität versklavter Menschen überwachten. Polizeien, welche mithilfe von Algorithmen Unterdrückungsdynamiken verstärken. Daten sind Macht. Und deswegen widmet sich der Kurs auch einer Analyse von Macht: Wer zieht die Linie zwischen Information und Datenpunkt? Welche Perspektiven und politischen Grundsätze sind in Daten eingeschrieben? Wer produziert Daten über wen? 
 
+# Über mich 🌸
+Ich habe Politikwissenschaft und Volkswirtschaftslehre in Berlin, Paris und Chicago studiert. Während meinem Master war ich Stipendiat der Studienstiftung des deutschen Volkes. Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin unterrichtet, Lehrstuhl für Internationale und Vergleichende Politische Ökonomie, Otto-Suhr-Institut für Politikwissenschaft. Davor habe ich acht Jahre als freier Mitarbeiter bei DW News gearbeitet und am  Wissenschaftszentrum Berlin ein DFG-Projekt zu [Arbeitsrechten in internationalen Handelsabkommen unterstützt](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13285). 
+
+**Was mir Spaß macht:**
+* Analyse und Visualisierung von Daten in R mit einem besonderes Interesse an räumlichen Daten (Vektor und Raster). 
+* Deskriptive und grundlegende inferentielle Statistik. 
+* Netzwerkanalyse und multivariate
+Regressionsanalysen. 
+* Grundlegendes Arbeiten mit Methoden des Natural Language Processing.
+* Webscraping mit und ohne APIs.
+
 # sag hallo 🌸
 Falls du interessant findest, was ich mache, kannst du dich gerne melden. Schreib mir auf Deutsch, Englisch oder Italienisch unter moritzvalentinomatzner@posteo.net. Meinen öffentlichen PGP-Schlüssel findest du [hier](https://keys.openpgp.org/search?q=F67B48E81DD633CCB665B44D9288E9D994472E2B). Eine verschlüsselte Nachricht kannst du mir auch über [Signal](https://signal.org/de/) schicken: +49 157 32235320. 
+
