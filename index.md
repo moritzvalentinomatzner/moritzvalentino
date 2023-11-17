@@ -12,10 +12,11 @@ Hier findest du eine Auswahl von Artikeln und Projekten an denen ich gerne gearb
 <b>English Version</b>
 </summary> 
 <br>
-hi there. I am interested in the political (economy) of data and how data (science) can be used to uncover structural inequalities. I also like to write. Before turning to journalism I worked as a reasearcher at the Free University of Berlin and taught a class on Critical Data Science. I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. 
+hi there. I am interested in the political (economy) of data and how data (science) can be used to uncover structural inequalities. Before turning to journalism I worked as a reasearcher at the Free University of Berlin and taught a class on Critical Data Science. I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. 
 <br>
 <br>
 Some stories I published this year that I am proud of include: 
+<br>
 <br>
 Berlin's Missing Teachers. Berlin has an educational crisis. But are all students affected equally? I scraped data for public schools in Berlin and showed how the lack of teachers overproportionally affetcs poor neighbourhoods.
 <br>
@@ -27,13 +28,16 @@ Demo Atlas. We analyzed years and years of data on all demonstrations that took 
 In case you are interested in working with me send me a message at moritzvalentinomatzner@posteo.net 
 </details>
 
+<br>
+<br>
+
 # Artikel 🌸
 **Berliner Bildungskrise: Die Klassenfrage. Tagesspiegel, August 2023** Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule mus, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Screenshot vom Artikel. 
 ![Alt text for broken image link](assets/img/lehrkraefte.png)
 
 ---
 
-**Kitanotstand: Wie das System versagt. Correctiv, November 2023.** Die deutschen Kitas stehen vor dem Zusammenbruch: Erzieherinnen vor dem Burnout, Schließungen durch Personalmangel – und Kinder, die nur verwahrt statt gefördert werden. Tausende Kita-Mitarbeitende berichten von ihren Erfahrungen. Mit einer Onlineplattform wurden tausende Kita-Mitarbeitende und Eltern befragt, welche Folgen der Personalmangel in Kitas für sie hat. Für diesen Artikel wurden alle 2.005 Antworten von Kita-Mitarbeitenden ausgewertet. Link zur [Recherche](https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/) und [Themenseite](https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/). Teil des Rechercheteams. No Paywall. Screenshot vom Artikel. 
+**Kitanotstand: Wie das System versagt. CORRECTIV.Lokal, November 2023.** Die deutschen Kitas stehen vor dem Zusammenbruch: Erzieherinnen vor dem Burnout, Schließungen durch Personalmangel – und Kinder, die nur verwahrt statt gefördert werden. Tausende Kita-Mitarbeitende berichten von ihren Erfahrungen. Mit einer Onlineplattform wurden tausende Kita-Mitarbeitende und Eltern befragt, welche Folgen der Personalmangel in Kitas für sie hat. Für diesen Artikel wurden alle 2.005 Antworten von Kita-Mitarbeitenden ausgewertet. Link zur [Recherche](https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/) und [Themenseite](https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/). Teil des Rechercheteams. No Paywall. Screenshot vom Artikel. 
 ![Alt text for broken image link](assets/img/kitas.png)
 
 ---
