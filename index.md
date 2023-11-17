@@ -2,10 +2,29 @@
 layout: default
 ---
 
-# hi there 🌸 english below 
+# hi there 🌸 
 **Wie kann _Data Science_ genutzt werden, um strukturelle Ungleichheiten aufzudecken?** In meiner Arbeit versuche ich mithilfe von Daten Geschichten zu erzählen. Mich interessieren klassische Fragen der politischen Ökonomie und der Soziologie: Wie stabilisieren sich ökonomische und politische Systeme gegenseitig? Wie strukturiert Raum soziale Interaktion? Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen strukturieren.
 
 Hier findest du eine Auswahl von Artikeln und Projekten an denen ich gerne gearbeitet habe, einen unvollständigen Lebenslauf und einen Kurs zu Kritischer Data Science, den ich an der FU gehalten habe. Unten findest du die Möglichkeit, mich zu kontaktieren. Viel Spaß 👻
+
+<details>
+<summary> 
+<b>English Version</b>
+</summary> 
+<br>
+hi there. I am interested in the political (economy) of data and how data (science) can be used to uncover structural inequalities. I also like to write. Before turning to journalism I worked as a reasearcher at the Free University of Berlin and taught a class on Critical Data Science. I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. 
+<br>
+<br>
+Some stories I published this year that I am proud of include: 
+<br>
+Berlin's Missing Teachers. Berlin has an educational crisis. But are all students affected equally? I scraped data for public schools in Berlin and showed how the lack of teachers overproportionally affetcs poor neighbourhoods.
+<br>
+Kita Notstand. Not only public schools, but also the German pre-school system is in crisis. Due to a recent study, more than 380.000 children lack a spot and the system is short of almost 100.000 educators. We created a survey for parents and educators and got more than 6.600 responses. They paint a dire picture of a collapsing system. 
+<br>
+Demo Atlas. We analyzed years and years of data on all demonstrations that took place in Berlin. 
+<br>
+<br>
+In case you are interested in working with me send me a message at moritzvalentinomatzner@posteo.net 
 
 # Artikel 🌸
 **Berliner Bildungskrise: Die Klassenfrage. Tagesspiegel, August 2023** Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule mus, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Screenshot vom Artikel. 
@@ -77,5 +96,5 @@ Ich habe Politikwissenschaft und Volkswirtschaftslehre in Berlin, Paris und Chic
 <br>
 
 # sag hallo 🌸
-Falls du interessant findest, was ich mache, kannst du dich gerne melden. Schreib mir auf Deutsch, Englisch oder Italienisch unter moritzvalentinomatzner@posteo.net. Meinen öffentlichen PGP-Schlüssel findest du [hier](https://keys.openpgp.org/search?q=F67B48E81DD633CCB665B44D9288E9D994472E2B). Eine verschlüsselte Nachricht kannst du mir auch über [Signal](https://signal.org/de/) schicken: +49 157 32235320. 
+Falls du interessant findest, was ich mache, kannst du dich gerne melden. Ich wohne und arbeite in Berlin. Schreib mir auf Deutsch, Englisch oder Italienisch unter moritzvalentinomatzner@posteo.net. Meinen öffentlichen PGP-Schlüssel findest du [hier](https://keys.openpgp.org/search?q=F67B48E81DD633CCB665B44D9288E9D994472E2B). Eine verschlüsselte Nachricht kannst du mir auch über [Signal](https://signal.org/de/) schicken: +49 157 32235320. 
 
