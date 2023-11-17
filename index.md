@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hi there 🌸
+# hi there 🌸 english below 
 **Wie kann _Data Science_ genutzt werden, um strukturelle Ungleichheiten aufzudecken?** In meiner Arbeit versuche ich mithilfe von Daten Geschichten zu erzählen. Mich interessieren klassische Fragen der politischen Ökonomie und der Soziologie: Wie stabilisieren sich ökonomische und politische Systeme gegenseitig? Wie strukturiert Raum soziale Interaktion? Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen strukturieren.
 
 Hier findest du eine Auswahl von Artikeln und Projekten an denen ich gerne gearbeitet habe, einen unvollständigen Lebenslauf, einen Kurs zu Kritischer Data Science, den ich an der FU gehalten habe. Und ganz am Ende findest du die Möglichkeit, mich zu kontaktieren. Viel Spaß 👻
@@ -33,9 +33,20 @@ Ich habe außerdem mit Hilfe von geleakten Dokuenmten darüber geschrieben, wie 
 # Lehre 🌸
 Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin gearbeitet. Am Otto-Suhr-Institut für Politikwissenschaft, Lehrstuhl Internationale und Vergleichende Politische Ökonomie, habe ich einen Kurs zu [Kritischer Data Science gegeben](https://moritzvalentinomatzner.shinyapps.io/kdst/) gegeben. 
 
-**Leitfragen**. Wie kann quantitative Datenarbeit für emanzipatorische Wissenschaft genutzt werden? Was sind die Rahmenbedingungen für eine kritische Auseinandersetzung mit Daten und quantitativen Methoden?
+<details>
+<summary>
 
-**Beschreibung**. Der Kurs macht Studierende mit Grundkenntnissen des Programmierens und dem Sammeln, Visualisieren und Analysieren von Daten in der Scriptsprache R vertraut. Doch das Sammeln und Analysieren von Daten ist intim mit einer Geschichte von Diskrimierung, Ausbeutung und Unterdrückung verwoben. Es ist und war vor allem ein Instrument der Mächtigen: Weiße Kolonialisten, welche die Produktivität versklavter Menschen überwachten. Polizeien, welche mithilfe von Algorithmen Unterdrückungsdynamiken verstärken. Daten sind Macht. Und deswegen widmet sich der Kurs auch einer Analyse von Macht: Wer zieht die Linie zwischen Information und Datenpunkt? Welche Perspektiven und politischen Grundsätze sind in Daten eingeschrieben? Wer produziert Daten über wen? 
+**Leitfragen**
+</summary> 
+Wie kann quantitative Datenarbeit für emanzipatorische Wissenschaft genutzt werden? Was sind die Rahmenbedingungen für eine kritische Auseinandersetzung mit Daten und quantitativen Methoden?
+</details>
+<details>
+<summary>
+
+**Beschreibung**
+</summary> 
+Der Kurs macht Studierende mit Grundkenntnissen des Programmierens und dem Sammeln, Visualisieren und Analysieren von Daten in der Scriptsprache R vertraut. Doch das Sammeln und Analysieren von Daten ist intim mit einer Geschichte von Diskrimierung, Ausbeutung und Unterdrückung verwoben. Es ist und war vor allem ein Instrument der Mächtigen: Weiße Kolonialisten, welche die Produktivität versklavter Menschen überwachten. Polizeien, welche mithilfe von Algorithmen Unterdrückungsdynamiken verstärken. Daten sind Macht. Und deswegen widmet sich der Kurs auch einer Analyse von Macht: Wer zieht die Linie zwischen Information und Datenpunkt? Welche Perspektiven und politischen Grundsätze sind in Daten eingeschrieben? Wer produziert Daten über wen? 
+</details>
 
 # Über mich 🌸
 Ich habe Politikwissenschaft und Volkswirtschaftslehre in Berlin, Paris und Chicago studiert. Während meinem Master war ich Stipendiat der Studienstiftung des deutschen Volkes. Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin unterrichtet, Lehrstuhl für Internationale und Vergleichende Politische Ökonomie, Otto-Suhr-Institut für Politikwissenschaft. Davor habe ich acht Jahre als freier Mitarbeiter bei DW News gearbeitet und am  Wissenschaftszentrum Berlin ein DFG-Projekt zu [Arbeitsrechten in internationalen Handelsabkommen unterstützt](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13285). 
