@@ -6,7 +6,7 @@ layout: default
 ---
 **Wie kann _Data Science_ genutzt werden, um strukturelle Ungleichheiten aufzudecken?** In meiner Arbeit versuche ich mithilfe von Daten Geschichten zu erzählen. Mich interessieren klassische Fragen der politischen Ökonomie und der Soziologie: Wie stabilisieren sich ökonomische und politische Systeme gegenseitig? Wie strukturiert Raum soziale Interaktion? Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen weltweit strukturieren. 
 
-Hier findest du eine [Auswahl von Artikeln und Projekten](#artikel-🌸) an denen ich gerne gearbeitet habe, einen [unvollständigen Lebenslauf](#über-mich-🌸) und einen [Kurs zu Kritischer Data Science](#lehre), den ich an der FU gehalten habe. Unten findest du die Möglichkeit, mich [zu kontaktieren](#sag-hallo-🌸). Viel Spaß 👻
+Hier findest du eine [Auswahl von Artikeln und Projekten](#artikel) an denen ich gerne gearbeitet habe, einen [unvollständigen Lebenslauf](#über-mich-🌸) und einen [Kurs zu Kritischer Data Science](#lehre), den ich an der FU gehalten habe. Unten findest du die Möglichkeit, mich [zu kontaktieren](#sag-hallo-🌸). Viel Spaß 👻
 
 <details>
 <summary> 
@@ -126,8 +126,6 @@ Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbe
 </ul>
 
 </details>
-
-<br>
 
 <details>
 <summary> 
