@@ -105,9 +105,9 @@ Während meinem MA-Studium war ich Stipendiat der Studienstiftung des deutschen 
 <br>
 
 Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin unterrichtet, Lehrstuhl für Internationale und Vergleichende Politische Ökonomie, Otto-Suhr-Institut für Politikwissenschaft. Dort habe ich einen einen [Kurs zu Kritischer Data Science](#-Lehre-🌸) gegeben. 
-
 <br>
-Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbeitet, den englischen Fernsehnachrichten der Deutschen Welle. Danach war ich freier Mitarbeiter beim Tagesspiegel Innovation Lab und habe ein Praktikum bei _CORRECTIV.Lokal_ absolviert. 
+
+Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbeitet, den englischen Fernsehnachrichten der Deutschen Welle. Danach war ich freier Mitarbeiter beim [Tagesspiegel Innovation Lab](https://interaktiv.tagesspiegel.de/) und habe ein Praktikum bei [CORRECTIV.Lokal](https://correctiv.org/lokal/) absolviert. 
 <br>
 
 <details>
@@ -121,8 +121,11 @@ Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbe
   <li>Deskriptive und grundlegende inferentielle Statistik. </li>
   <li>Netzwerkanalyse und multivariate Regressionsanalysen. </li>
   <li>Grundlegendes Arbeiten mit Methoden des Natural Language Processing. </li>
+
 </ul>
+
 </details>
+
 <br>
 
 <details>
