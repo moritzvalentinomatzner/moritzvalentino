@@ -15,7 +15,7 @@ Hier findest du eine [Auswahl von Artikeln und Projekten](#artikel) an denen ich
 <b>English Version</b>
 </summary> 
 <br>
-hi there. I am interested in the <b>political (economy) of data and how data (science) can be used to uncover structural inequalities</b>. Before turning to journalism I worked as a reasearcher at the Free University of Berlin and taught a class on Critical Data Science. I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. 
+hi there. I am interested in the <b>political (economy) of data and how data (science) can be used to uncover structural inequalities</b>. Before turning to journalism I worked as a reasearcher at the Free University of Berlin and taught a class on <a href"https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a>. I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. 
 <br>
 <br>
 <b>Some stories I published this year include</b>: 
@@ -27,7 +27,7 @@ hi there. I am interested in the <b>political (economy) of data and how data (sc
 <li><b>Demo Atlas</b>. We analyzed years and years of data on all demonstrations that took place in Berlin. <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/">Map</a> and <a href="https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/">analysis</a>. In German. </li>
 </ul>
 <br>
-Work with me. You can reach me at moritzvalentinomatzner@posteo.net.  
+Work with me 🌸 You can reach me at moritzvalentinomatzner@posteo.net.  
 </details>
 
 <br>
@@ -47,8 +47,9 @@ Work with me. You can reach me at moritzvalentinomatzner@posteo.net.
 
 **Demo Atlas. Tagesspiegel, Oktober 2023.** Wofür wird in meiner Nachbarschaft demonstriert? Ob Aufmarsch Hunderttausender oder Ein-Mann-Kundgebung: Im Schnitt gibt es täglich 16 Demos in Berlin. Wer demonstriert in Ihrer Nachbarschaft – und wofür? Die Transparenz-Initiative „FragDenStaat“ hat Daten zu Demonstrationen per Informationsfreiheitsanfrage von der Berliner Polizei erhalten. Das Tagesspiegel Innovation Lab hat sie ausgewertet und Berlins Protestlandschaft kartografiert. Link zur [Karte](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/) und [Analyse](https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/). Teil des Rechercheteams. Keine Paywall. Screenshot vom Artikel. 
 
-![Alt text for broken image link](assets/img/demoatlas.png)
-
+<video autoplay>
+<source src="assets/img/REC_tsp.mp4">
+</video>
 ---
 
 **Neukölln Komplex. Dokumentarfilm**. Als Neukölln-Komplex wird eine rechte Gewaltserie in Berlin-Neukölln bezeichnet. Dazu zählen seit 2011 über 70 Straftaten, 23 Brandstiftungen und mindestens zwei Morde auf offener Straße. Für viele Betroffene ist klar: Ein rechtes Netzwerk mit Verbindungen in Polizei und Justiz verhindert die Auflärung. Seit 2022 befasst sich mit mit dem Komplex ein parlamentarischer Untersuchungsausschuss im Berliner Abgeordnetenhaus. Der Dokumentarfilm entsteht seit Sommer 2021 als Teil einer Langzeitdokumentation. Co-Regie.
@@ -63,7 +64,7 @@ Work with me. You can reach me at moritzvalentinomatzner@posteo.net.
 
 # Lehre
 ---
-Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin gearbeitet. Am Otto-Suhr-Institut für Politikwissenschaft, Lehrstuhl Internationale und Vergleichende Politische Ökonomie, habe ich einen Kurs zu [Kritischer Data Science gegeben](https://moritzvalentinomatzner.shinyapps.io/kdst/) gegeben. 
+Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin gearbeitet, Otto-Suhr-Institut für Politikwissenschaft, Lehrstuhl Internationale und Vergleichende Politische Ökonomie. Dort habe ich einen Kurs zu [Kritischer Data Science gegeben](https://moritzvalentinomatzner.shinyapps.io/kdst/) unterrichtet. 
 
 <details>
 <summary> 
@@ -76,7 +77,12 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
 <br>
 <br>
 
-<b>Der Kurs Kritische Data Science</b> macht Studierende mit Grundkenntnissen des Programmierens und dem Sammeln, Visualisieren und Analysieren von Daten in der Scriptsprache R vertraut. Doch das Sammeln und Analysieren von Daten ist intim mit einer Geschichte von Diskrimierung, Ausbeutung und Unterdrückung verwoben. Es ist und war vor allem ein Instrument der Mächtigen: Weiße Kolonialisten, welche die Produktivität versklavter Menschen überwachten. Polizeien, welche mithilfe von Algorithmen Unterdrückungsdynamiken verstärken. Daten sind Macht. Und deswegen widmet sich der Kurs auch einer Analyse von Macht: Wer zieht die Linie zwischen Information und Datenpunkt? Welche Perspektiven und politischen Grundsätze sind in Daten eingeschrieben? Wer produziert Daten über wen? Der Kurs hinterfragt die sozialen Beziehungen, welche in Daten und computergestützten Methoden der Analyse eingeschrieben sind durch eine intersektionale, machtkritische Linse. Und versucht Antworten darauf zu geben, wie Daten aus einer emanzipatorischen Perspektive genutzt werden können. Dabei widmet sich der Kurs akademischer Literatur aber auch Projekten aus dem journalistischen, künstlerischen und aktivistischen Kontext: Bereits 1895 sammelte die schwarze Datenjournalistin und Aktivistin Ida B. Wells einen Datensatz über Lynchungen schwarzer Menschen in den USA. Der Datensatz, ergänzt mit Erzählungen zu den Morden konstruiert einen datengestützten Gegennarrative. Das umfassenste Archiv von Femiziden in Mexiko stellt nicht die Regierung bereit, sondern die Aktivistin María Salguero aka Princesa. Und 2020 sammeln Aktivist:innen von Peng! und der ISD Daten zum kolonialen Vermächtnis deutscher Straßennamen, um ein “umerinnern” zu bewirken.
+<b>Der Kurs Kritische Data Science</b> macht Studierende mit Grundkenntnissen des Programmierens und dem Sammeln, Visualisieren und Analysieren von Daten in der Scriptsprache R vertraut. Doch das Sammeln und Analysieren von Daten ist intim mit einer Geschichte von Diskrimierung, Ausbeutung und Unterdrückung verwoben. Es ist und war vor allem ein Instrument der Mächtigen: Weiße Kolonialisten, welche die Produktivität versklavter Menschen überwachten. Polizeien, welche mithilfe von Algorithmen Unterdrückungsdynamiken verstärken. Daten sind Macht. Und deswegen widmet sich der Kurs auch einer Analyse von Macht: Wer zieht die Linie zwischen Information und Datenpunkt? Welche Perspektiven und politischen Grundsätze sind in Daten eingeschrieben? Wer produziert Daten über wen? 
+
+<br>
+<br>
+
+<b>Der Kurs hinterfragt die sozialen Beziehungen, welche in Daten und computergestützten Methoden der Analyse eingeschrieben sind</b> durch eine intersektionale, machtkritische Linse. Und versucht Antworten darauf zu geben, wie Daten aus einer emanzipatorischen Perspektive genutzt werden können. Dabei widmet sich der Kurs akademischer Literatur aber auch Projekten aus dem journalistischen, künstlerischen und aktivistischen Kontext: Bereits 1895 sammelte die schwarze Datenjournalistin und Aktivistin Ida B. Wells einen Datensatz über Lynchungen schwarzer Menschen in den USA. Der Datensatz, ergänzt mit Erzählungen zu den Morden konstruiert einen datengestützten Gegennarrative. Das umfassenste Archiv von Femiziden in Mexiko stellt nicht die Regierung bereit, sondern die Aktivistin María Salguero aka Princesa. Und 2020 sammeln Aktivist:innen von Peng! und der ISD Daten zum kolonialen Vermächtnis deutscher Straßennamen, um ein “umerinnern” zu bewirken.
 
 <br>
 <br>
@@ -86,7 +92,7 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
 <br>
 <br>
 
-**Nach Vollendung des Kurses können Studierende**: 
+<b>Nach Vollendung des Kurses</b> können Studierende: 
 <ul>
     <li>Ihre eigene empirische Forschungsfrage und -methodik artikulieren</li>
     <li>Daten selbständig aus dem Internet sammeln</li>
@@ -133,7 +139,7 @@ Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbe
 <b>Abschlussarbeit</b>: Global Production Networks in the Age of Weaponized Interdependence
 </summary> 
 <br>
-Durch die Globalisierung werden zwischenstaatliche Verbindungen immer komplexer. Laut dem Liberalismus führte das zu einer Diffusion von Macht - und weniger Konflikten. Doch nicht erst seit Donald Trump haben Staaten versucht, sich durch ihre dominante Position in globalen Netzwerken einen strategischen Vorteil zu verschaffen. Das wird als  beschrieben. Doch welche Netzwerke können _weaponized_ werden? Und wie können sich Staaten in der Peripherie schützen? Ich habe einen Indikator für _Weaponization_ erstellt und verschiedene globale Produktionsnetzwerke mit einem _Exponential Random Graph Model_ untersucht. 
+Durch die Globalisierung werden zwischenstaatliche Verbindungen immer komplexer. Laut dem Liberalismus führte das zu einer Diffusion von Macht - und weniger Konflikten. Doch nicht erst seit Donald Trump haben Staaten versucht, sich durch ihre dominante Position in globalen Netzwerken einen strategischen Vorteil zu verschaffen. Doch welche Netzwerke können <i>weaponized</i> werden? Und wie können sich Staaten in der Peripherie schützen? Ich habe einen Indikator für <i>Weaponization</i> erstellt und verschiedene globale Produktionsnetzwerke mit einem </i>Exponential Random Graph Model</i> untersucht. 
 </ul>
 </details>
 <br>
