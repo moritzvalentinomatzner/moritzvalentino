@@ -27,7 +27,6 @@ hi there. I am interested in the <b>political (economy) of data and how data (sc
 <li><b>Demo Atlas</b>. We analyzed years and years of data on all demonstrations that took place in Berlin. <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/">Map</a> and <a href="https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/">analysis</a>. In German. </li>
 </ul>
 <br>
-<br>
 Work with me. You can reach me at moritzvalentinomatzner@posteo.net.  
 </details>
 
@@ -104,7 +103,7 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
 ---
 Ich habe einen Master in _International Security_ von der Sciences Po Paris und einen Master in Politikwissenschaft von der FU Berlin. Meine Abschlussarbeit befasste sich mit [_Weaponized Interdependence_](https://direct.mit.edu/isec/article/44/1/42/12237/Weaponized-Interdependence-How-Global-Economic). 
 
-Während meinem MA-Studium war ich Stipendiat der Studienstiftung des deutschen Volkes und habe als SHK am  Wissenschaftszentrum Berlin an einem DFG-Projekt zu [Arbeitsrechten in internationalen Handelsabkommen unterstützt](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13285) gearbeitet. 
+Während meinem MA-Studium war ich Stipendiat der Studienstiftung des deutschen Volkes und habe als SHK am  Wissenschaftszentrum Berlin an einem DFG-Projekt zu [Arbeitsrechten in internationalen Handelsabkommen](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13285) gearbeitet. 
 <br>
 
 Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin unterrichtet, Lehrstuhl für Internationale und Vergleichende Politische Ökonomie, Otto-Suhr-Institut für Politikwissenschaft. Dort habe ich einen einen [Kurs zu Kritischer Data Science](#-Lehre-🌸) gegeben. 
@@ -134,7 +133,7 @@ Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbe
 <b>Abschlussarbeit</b>: Global Production Networks in the Age of Weaponized Interdependence
 </summary> 
 <br>
-Durch die Globalisierung werden zwischenstaatliche Verbindungen immer komplexer. Laut dem Liberalismus führte das zu einer Diffusion von Macht - und weniger Konflikten. Doch nicht erst seit Donald Trump habe Staaten versucht, sich durch ihre dominante Position in globalen Netzwerken einen strategischen Vorteil zu verschaffen. Das wird als  beschrieben. Doch welche Netzwerke können _weaponized_ werden? Und wie können sich Staaten in der Peripherie schützen? Ich habe einen Indikator für _Weaponization_ erstellt und verschiedene globale Produktionsnetzwerke mit einem _Exponential Random Graph Model_ untersucht. 
+Durch die Globalisierung werden zwischenstaatliche Verbindungen immer komplexer. Laut dem Liberalismus führte das zu einer Diffusion von Macht - und weniger Konflikten. Doch nicht erst seit Donald Trump haben Staaten versucht, sich durch ihre dominante Position in globalen Netzwerken einen strategischen Vorteil zu verschaffen. Das wird als  beschrieben. Doch welche Netzwerke können _weaponized_ werden? Und wie können sich Staaten in der Peripherie schützen? Ich habe einen Indikator für _Weaponization_ erstellt und verschiedene globale Produktionsnetzwerke mit einem _Exponential Random Graph Model_ untersucht. 
 </ul>
 </details>
 <br>
