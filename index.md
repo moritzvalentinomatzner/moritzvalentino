@@ -4,35 +4,37 @@ layout: default
 
 # hi there 🌸 
 ---
-**Wie kann _Data Science_ genutzt werden, um strukturelle Ungleichheiten aufzudecken?** In meiner Arbeit versuche ich mithilfe von Daten Geschichten zu erzählen. Mich interessieren klassische Fragen der politischen Ökonomie und der Soziologie: Wie stabilisieren sich ökonomische und politische Systeme gegenseitig? Wie strukturiert Raum soziale Interaktion? Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen weltweit strukturieren. 
+**Wie kann _Data Science_ genutzt werden, um strukturelle Ungleichheiten aufzudecken?** In meiner Arbeit versuche ich mithilfe von Daten Geschichten zu erzählen. Mich interessieren klassische Fragen der politischen Ökonomie und der Soziologie: Wie stabilisieren sich ökonomische und politische Systeme gegenseitig? Wie strukturiert Raum soziale Interaktion? 
 
-Hier findest du eine [Auswahl von Artikeln und Projekten](#artikel) an denen ich gerne gearbeitet habe, einen [unvollständigen Lebenslauf](#über-mich-🌸) und einen [Kurs zu Kritischer Data Science](#lehre), den ich an der FU gehalten habe. Unten findest du die Möglichkeit, mich [zu kontaktieren](#sag-hallo-🌸). Viel Spaß 👻
+Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen weltweit strukturieren. 
+
+Hier findest du eine [Auswahl von Artikeln und Projekten](#artikel) an denen ich gerne gearbeitet habe, einen [unvollständigen Lebenslauf](#über-mich) und einen [Kurs zu Kritischer Data Science](#lehre), den ich an der FU gehalten habe. Unten findest du die Möglichkeit, mich [zu kontaktieren](#sag-hallo). Viel Spaß 👻
 
 <details>
 <summary> 
 <b>English Version</b>
 </summary> 
 <br>
-hi there. I am interested in the political (economy) of data and how data (science) can be used to uncover structural inequalities. Before turning to journalism I worked as a reasearcher at the Free University of Berlin and taught a class on Critical Data Science. I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. 
+hi there. I am interested in the <b>political (economy) of data and how data (science) can be used to uncover structural inequalities</b>. Before turning to journalism I worked as a reasearcher at the Free University of Berlin and taught a class on Critical Data Science. I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. 
 <br>
 <br>
-Some stories I published this year that I am proud of include: 
+<b>Some stories I published this year include</b>: 
 <br>
 <br>
-Berlin's Missing Teachers. Berlin has an educational crisis. But are all students affected equally? I scraped data for public schools in Berlin and showed how the lack of teachers overproportionally affetcs poor neighbourhoods.
+<ul>
+<li><b>Berlin's Missing Teachers</b>. Berlin has an educational crisis. But are all students affected equally? I scraped data for public schools in Berlin and showed how the lack of teachers overproportionally affetcs poor neighbourhoods. <a href="https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/">Interactive map</a> and <a href="https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/">longread</a>. In German. </li>
+<li><b>Kita Notstand</b>. Not only public schools, but also the German pre-school system is in crisis. Due to a recent study, more than 380.000 children lack a spot and the system is short of almost 100.000 educators. We created a survey for parents and educators and got more than 6.600 responses. They paint a dire picture of a collapsing system. <a href="https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/">Longread</a> and <a href="https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/"> project site</a>. In German. </li>
+<li><b>Demo Atlas</b>. We analyzed years and years of data on all demonstrations that took place in Berlin. <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/">Map</a> and <a href="https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/">analysis</a>. In German. </li>
+</ul>
 <br>
-Kita Notstand. Not only public schools, but also the German pre-school system is in crisis. Due to a recent study, more than 380.000 children lack a spot and the system is short of almost 100.000 educators. We created a survey for parents and educators and got more than 6.600 responses. They paint a dire picture of a collapsing system. 
 <br>
-Demo Atlas. We analyzed years and years of data on all demonstrations that took place in Berlin. 
-<br>
-<br>
-In case you are interested in working with me send me a message at moritzvalentinomatzner@posteo.net 
+Work with me. You can reach me at moritzvalentinomatzner@posteo.net.  
 </details>
 
 <br>
 <br>
 
-# Artikel 🌸
+# Artikel
 ---
 **Berliner Bildungskrise: Die Klassenfrage. Tagesspiegel, August 2023** Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule mus, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Screenshot vom Artikel. 
 ![Alt text for broken image link](assets/img/lehrkraefte.png)
@@ -70,7 +72,7 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
 </summary> 
 <br>
 
-**Leitfragen**. Wie kann quantitative Datenarbeit für emanzipatorische Wissenschaft genutzt werden? Was sind die Rahmenbedingungen für eine kritische Auseinandersetzung mit Daten und quantitativen Methoden?
+<b>Leitfragen</b>. Wie kann quantitative Datenarbeit für emanzipatorische Wissenschaft genutzt werden? Was sind die Rahmenbedingungen für eine kritische Auseinandersetzung mit Daten und quantitativen Methoden?
 
 <br>
 <br>
@@ -80,7 +82,7 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
 <br>
 <br>
 
-**Als ein Einführungskurs** richtet sich der Kurs explizit an Studierende ohne Vorkenntnisse in Statistik und Programmieren. Teilnehmende sollen ermutigt werden ihre eigenen datengestützten Analysen und Projekte im Kontext ihres gesellschaftswissenschaftlichen Studiums oder Aktivismus umzusetzen. Der Kurs soll Raum dafür geben, dass Studierende (wenn sie das möchten) in der Gemeinschaft ihre Ideen und Projekte präsentieren. Die Arbeit in Teams ist ausdrücklich erlaubt.
+<b>Als ein Einführungskurs</b> richtet sich der Kurs explizit an Studierende ohne Vorkenntnisse in Statistik und Programmieren. Teilnehmende sollen ermutigt werden ihre eigenen datengestützten Analysen und Projekte im Kontext ihres gesellschaftswissenschaftlichen Studiums oder Aktivismus umzusetzen. Der Kurs soll Raum dafür geben, dass Studierende (wenn sie das möchten) in der Gemeinschaft ihre Ideen und Projekte präsentieren. Die Arbeit in Teams ist ausdrücklich erlaubt.
 
 <br>
 <br>
@@ -98,7 +100,7 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
 
 <br>
 
-# Über mich 🌸
+# Über mich
 ---
 Ich habe einen Master in _International Security_ von der Sciences Po Paris und einen Master in Politikwissenschaft von der FU Berlin. Meine Abschlussarbeit befasste sich mit [_Weaponized Interdependence_](https://direct.mit.edu/isec/article/44/1/42/12237/Weaponized-Interdependence-How-Global-Economic). 
 
@@ -126,7 +128,7 @@ Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbe
 </ul>
 
 </details>
-
+<br>
 <details>
 <summary> 
 <b>Abschlussarbeit</b>: Global Production Networks in the Age of Weaponized Interdependence
@@ -137,7 +139,13 @@ Durch die Globalisierung werden zwischenstaatliche Verbindungen immer komplexer.
 </details>
 <br>
 
-# sag hallo 🌸
+# sag hallo
 ---
-Falls du interessant findest, was ich mache, kannst du dich gerne melden. Ich wohne und arbeite in Berlin. Schreib mir auf Deutsch, Englisch oder Italienisch unter moritzvalentinomatzner@posteo.net. Meinen öffentlichen PGP-Schlüssel findest du [hier](https://keys.openpgp.org/search?q=F67B48E81DD633CCB665B44D9288E9D994472E2B). Eine verschlüsselte Nachricht kannst du mir auch über [Signal](https://signal.org/de/) schicken: +49 157 32235320. 
+Falls du interessant findest, was ich mache, kannst du dich gerne melden. Ich wohne und arbeite in Berlin. 
 
+Schreib mir auf Deutsch, Englisch oder Italienisch unter moritzvalentinomatzner@posteo.net. Meinen öffentlichen PGP-Schlüssel findest du [hier](https://keys.openpgp.org/search?q=F67B48E81DD633CCB665B44D9288E9D994472E2B). 
+
+Eine verschlüsselte Nachricht kannst du mir auch über [Signal](https://signal.org/de/) schicken: +49 157 32235320. 
+
+<br>
+🌸
