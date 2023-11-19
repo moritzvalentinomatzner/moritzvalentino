@@ -92,8 +92,8 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
     <li> Datenquellen und ihre Erhebungsmethodik kritisch hinterfragen
     <li>eine eigene, einfache Website (wie diese) programmieren und hosten um ihr Abschlussprojekt vorzustellen.
 </ul> 
-</details>
 
+</details>
 <br>
 
 # Über mich 🌸
