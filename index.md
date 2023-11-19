@@ -87,11 +87,11 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
 
 **Nach Vollendung des Kurses können Studierende**: 
 <ul>
-    <li>Ihre eigene empirische Forschungsfrage und -methodik artikulieren
-    <li>Daten selbständig aus dem Internet sammeln
-    <li>durch deskriptive Statistik, einfache quantitative Methoden (OLS-Regression) und fortgeschrittene Visualisierungen Zusammenhänge entdecken und kommunizieren
-    <li> Datenquellen und ihre Erhebungsmethodik kritisch hinterfragen
-    <li>eine eigene, einfache Website (wie diese) programmieren und hosten um ihr Abschlussprojekt vorzustellen.
+    <li>Ihre eigene empirische Forschungsfrage und -methodik artikulieren</li>
+    <li>Daten selbständig aus dem Internet sammeln</li>
+    <li>durch deskriptive Statistik, einfache quantitative Methoden (OLS-Regression) und fortgeschrittene Visualisierungen Zusammenhänge entdecken und kommunizieren</li>
+    <li> Datenquellen und ihre Erhebungsmethodik kritisch hinterfragen</li>
+    <li>eine eigene, einfache Website (wie diese) programmieren und hosten um ihr Abschlussprojekt vorzustellen.</li>
 </ul> 
 
 </details>
