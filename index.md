@@ -3,6 +3,7 @@ layout: default
 ---
 
 # hi there 🌸 
+---
 **Wie kann _Data Science_ genutzt werden, um strukturelle Ungleichheiten aufzudecken?** In meiner Arbeit versuche ich mithilfe von Daten Geschichten zu erzählen. Mich interessieren klassische Fragen der politischen Ökonomie und der Soziologie: Wie stabilisieren sich ökonomische und politische Systeme gegenseitig? Wie strukturiert Raum soziale Interaktion? Dabei untersuche ich sozio-ökonomische Ungleicheiten in Berlin und Deutschland. Aber auch, wie  Machtverhältnisse die Beziehungen zwischen Staaten, Unternehmen und Menschen weltweit strukturieren. 
 
 Hier findest du eine [Auswahl von Artikeln und Projekten](#artikel-🌸) an denen ich gerne gearbeitet habe, einen [unvollständigen Lebenslauf](#über-mich-🌸) und einen [Kurs zu Kritischer Data Science](#lehre), den ich an der FU gehalten habe. Unten findest du die Möglichkeit, mich [zu kontaktieren](#sag-hallo-🌸). Viel Spaß 👻
@@ -32,6 +33,7 @@ In case you are interested in working with me send me a message at moritzvalenti
 <br>
 
 # Artikel 🌸
+---
 **Berliner Bildungskrise: Die Klassenfrage. Tagesspiegel, August 2023** Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Sind alle Schüler\*innen gleich betroffen? Oder verschärft die Bildungskrise bestehende Ungleichheiten? Ich habe Daten zum Personalmangel auf Schulebene gesammelt und gezeigt, wie der Wohnort die Schulqualität beeinflusst. Denn wer im falschen Bezirk zur Schule mus, hat schlechtere Chancen auf eine vernünftige Ausbildung. Die Umsetzung war eine Datenanalyse mit [interaktiver Karte](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) und ein [Longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. Screenshot vom Artikel. 
 ![Alt text for broken image link](assets/img/lehrkraefte.png)
 
@@ -59,6 +61,7 @@ In case you are interested in working with me send me a message at moritzvalenti
 <br>
 
 # Lehre
+---
 Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin gearbeitet. Am Otto-Suhr-Institut für Politikwissenschaft, Lehrstuhl Internationale und Vergleichende Politische Ökonomie, habe ich einen Kurs zu [Kritischer Data Science gegeben](https://moritzvalentinomatzner.shinyapps.io/kdst/) gegeben. 
 <details>
 <summary> 
@@ -90,9 +93,11 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
     <li>eine eigene, einfache Website (wie diese) programmieren und hosten um ihr Abschlussprojekt vorzustellen.
 </ul> 
 </details>
+
 <br>
 
 # Über mich 🌸
+---
 Ich habe einen Master in _International Security_ von der Sciences Po Paris und einen Master in Politikwissenschaft von der FU Berlin. Während meinem BA-Studium war ich als Stipendiat der Meine Abschlussarbeit befasste sich mit [_Weaponized Interdependence_](https://direct.mit.edu/isec/article/44/1/42/12237/Weaponized-Interdependence-How-Global-Economic): durch die Globalisierung werden zwischenstaatliche Verbindungen immer komplexer. Laut dem Liberalismus führte das zu einer Diffusion von Macht - und weniger Konflikten. Doch nicht erst seit Donald Trump habe Staaten versucht, sich durch ihre dominante Position in globalen Netzwerken einen strategischen Vorteil zu verschaffen. Doch welche Netzwerke können _weaponized_ werden? Und wie können sich Staaten in der Peripherie schützen? Ich habe einen Indikator für _Weaponization_ erstellt und verschiedene globale Produktionsnetzwerke mit einem _Exponential Random Graph Model_ untersucht. Während meinem MA-Studium war ich Stipendiat der Studienstiftung des deutschen Volkes und habe am  Wissenschaftszentrum Berlin ein DFG-Projekt zu [Arbeitsrechten in internationalen Handelsabkommen unterstützt](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13285) unterstützt. 
 <br>
 
@@ -113,5 +118,6 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
 <br>
 
 # sag hallo 🌸
+---
 Falls du interessant findest, was ich mache, kannst du dich gerne melden. Ich wohne und arbeite in Berlin. Schreib mir auf Deutsch, Englisch oder Italienisch unter moritzvalentinomatzner@posteo.net. Meinen öffentlichen PGP-Schlüssel findest du [hier](https://keys.openpgp.org/search?q=F67B48E81DD633CCB665B44D9288E9D994472E2B). Eine verschlüsselte Nachricht kannst du mir auch über [Signal](https://signal.org/de/) schicken: +49 157 32235320. 
 
