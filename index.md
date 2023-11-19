@@ -63,6 +63,7 @@ In case you are interested in working with me send me a message at moritzvalenti
 # Lehre
 ---
 Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin gearbeitet. Am Otto-Suhr-Institut für Politikwissenschaft, Lehrstuhl Internationale und Vergleichende Politische Ökonomie, habe ich einen Kurs zu [Kritischer Data Science gegeben](https://moritzvalentinomatzner.shinyapps.io/kdst/) gegeben. 
+
 <details>
 <summary> 
 <b>Kursinfo</b>
