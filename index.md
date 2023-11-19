@@ -91,7 +91,6 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
     <li>durch deskriptive Statistik, einfache quantitative Methoden (OLS-Regression) und fortgeschrittene Visualisierungen Zusammenhänge entdecken und kommunizieren
     <li> Datenquellen und ihre Erhebungsmethodik kritisch hinterfragen
     <li>eine eigene, einfache Website (wie diese) programmieren und hosten um ihr Abschlussprojekt vorzustellen.
-
 </ul> 
 
 </details>
@@ -100,10 +99,17 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
 
 # Über mich 🌸
 ---
-Ich habe einen Master in _International Security_ von der Sciences Po Paris und einen Master in Politikwissenschaft von der FU Berlin. Während meinem BA-Studium war ich als Stipendiat der Meine Abschlussarbeit befasste sich mit [_Weaponized Interdependence_](https://direct.mit.edu/isec/article/44/1/42/12237/Weaponized-Interdependence-How-Global-Economic): durch die Globalisierung werden zwischenstaatliche Verbindungen immer komplexer. Laut dem Liberalismus führte das zu einer Diffusion von Macht - und weniger Konflikten. Doch nicht erst seit Donald Trump habe Staaten versucht, sich durch ihre dominante Position in globalen Netzwerken einen strategischen Vorteil zu verschaffen. Doch welche Netzwerke können _weaponized_ werden? Und wie können sich Staaten in der Peripherie schützen? Ich habe einen Indikator für _Weaponization_ erstellt und verschiedene globale Produktionsnetzwerke mit einem _Exponential Random Graph Model_ untersucht. Während meinem MA-Studium war ich Stipendiat der Studienstiftung des deutschen Volkes und habe am  Wissenschaftszentrum Berlin ein DFG-Projekt zu [Arbeitsrechten in internationalen Handelsabkommen unterstützt](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13285) unterstützt. 
+Ich habe einen Master in _International Security_ von der Sciences Po Paris und einen Master in Politikwissenschaft von der FU Berlin. Meine Abschlussarbeit befasste sich mit [_Weaponized Interdependence_](https://direct.mit.edu/isec/article/44/1/42/12237/Weaponized-Interdependence-How-Global-Economic). 
+
+Während meinem MA-Studium war ich Stipendiat der Studienstiftung des deutschen Volkes und habe als SHK am  Wissenschaftszentrum Berlin an einem DFG-Projekt zu [Arbeitsrechten in internationalen Handelsabkommen unterstützt](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13285) gearbeitet. 
 <br>
 
-Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin unterrichtet, Lehrstuhl für Internationale und Vergleichende Politische Ökonomie, Otto-Suhr-Institut für Politikwissenschaft. Dort habe ich einen einen [Kurs zu Kritischer Data Science](#-Lehre-🌸) gegeben. Zwischen 2016 und 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbeitet, den englischen Fernsehnachrichten der Deutschen Welle. 
+Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin unterrichtet, Lehrstuhl für Internationale und Vergleichende Politische Ökonomie, Otto-Suhr-Institut für Politikwissenschaft. Dort habe ich einen einen [Kurs zu Kritischer Data Science](#-Lehre-🌸) gegeben. 
+
+<br>
+Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbeitet, den englischen Fernsehnachrichten der Deutschen Welle. Danach war ich freier Mitarbeiter beim Tagesspiegel Innovation Lab und habe ein Praktikum bei _CORRECTIV.Lokal_ absolviert. 
+<br>
+
 <details>
 <summary> 
 <b>Programmierkenntnisse</b>
@@ -115,6 +121,16 @@ Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU 
   <li>Deskriptive und grundlegende inferentielle Statistik. </li>
   <li>Netzwerkanalyse und multivariate Regressionsanalysen. </li>
   <li>Grundlegendes Arbeiten mit Methoden des Natural Language Processing. </li>
+</ul>
+</details>
+<br>
+
+<details>
+<summary> 
+<b>Abschlussarbeit</b>: Global Production Networks in the Age of Weaponized Interdependence
+</summary> 
+<br>
+Durch die Globalisierung werden zwischenstaatliche Verbindungen immer komplexer. Laut dem Liberalismus führte das zu einer Diffusion von Macht - und weniger Konflikten. Doch nicht erst seit Donald Trump habe Staaten versucht, sich durch ihre dominante Position in globalen Netzwerken einen strategischen Vorteil zu verschaffen. Das wird als  beschrieben. Doch welche Netzwerke können _weaponized_ werden? Und wie können sich Staaten in der Peripherie schützen? Ich habe einen Indikator für _Weaponization_ erstellt und verschiedene globale Produktionsnetzwerke mit einem _Exponential Random Graph Model_ untersucht. 
 </ul>
 </details>
 <br>
