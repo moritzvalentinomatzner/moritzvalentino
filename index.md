@@ -142,7 +142,7 @@ Von 2016 bis 2023 habe ich als freier Mitarbeiter am Newsdesk von DW News gearbe
 <b>Abschlussarbeit</b>: Global Production Networks in the Age of Weaponized Interdependence
 </summary> 
 <br>
-Durch die Globalisierung werden zwischenstaatliche Verbindungen immer komplexer. Laut dem Liberalismus führte das zu einer Diffusion von Macht - und weniger Konflikten. Doch nicht erst seit Donald Trump haben Staaten versucht, sich durch ihre dominante Position in globalen Netzwerken einen strategischen Vorteil zu verschaffen. Doch welche Netzwerke können <i>weaponized</i> werden? Und wie können sich Staaten in der Peripherie schützen? Ich habe einen Indikator für <i>Weaponization</i> erstellt und verschiedene globale Produktionsnetzwerke mit einem </i>Exponential Random Graph Model</i> untersucht. 
+Durch die Globalisierung werden zwischenstaatliche Verbindungen immer komplexer. Laut dem Liberalismus können diese gegenseitigen Abhängikeiten zu einer Diffusion von Macht führen - und dadurch zu weniger Konflikten. Doch Macht ist in Netzwerken oft asymetrisch verteilt. Und nicht erst seit Donald Trump haben Staaten versucht, sich durch ihre dominante Position in diesen Netzwerken einen taktischen Vorteil zu verschaffen. Doch welche Netzwerke können überhaupt <i>weaponized</i> werden? Und wie können sich Staaten in der Peripherie schützen? Ich habe einen Indikator für <i>Weaponization</i> erstellt und Abhängigkeiten in globale Produktionsnetzwerke durch ein </i>Exponential Random Graph Model</i> untersucht. 
 </ul>
 </details>
 <br>
