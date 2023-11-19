@@ -47,9 +47,11 @@ Work with me 🌸 You can reach me at moritzvalentinomatzner@posteo.net.
 
 **Demo Atlas. Tagesspiegel, Oktober 2023.** Wofür wird in meiner Nachbarschaft demonstriert? Ob Aufmarsch Hunderttausender oder Ein-Mann-Kundgebung: Im Schnitt gibt es täglich 16 Demos in Berlin. Wer demonstriert in Ihrer Nachbarschaft – und wofür? Die Transparenz-Initiative „FragDenStaat“ hat Daten zu Demonstrationen per Informationsfreiheitsanfrage von der Berliner Polizei erhalten. Das Tagesspiegel Innovation Lab hat sie ausgewertet und Berlins Protestlandschaft kartografiert. Link zur [Karte](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/) und [Analyse](https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/). Teil des Rechercheteams. Keine Paywall. Screenshot vom Artikel. 
 
-<video autoplay>
+<video autoplay width="100%">
 <source src="assets/img/REC_tsp.mp4">
+
 </video>
+
 ---
 
 **Neukölln Komplex. Dokumentarfilm**. Als Neukölln-Komplex wird eine rechte Gewaltserie in Berlin-Neukölln bezeichnet. Dazu zählen seit 2011 über 70 Straftaten, 23 Brandstiftungen und mindestens zwei Morde auf offener Straße. Für viele Betroffene ist klar: Ein rechtes Netzwerk mit Verbindungen in Polizei und Justiz verhindert die Auflärung. Seit 2022 befasst sich mit mit dem Komplex ein parlamentarischer Untersuchungsausschuss im Berliner Abgeordnetenhaus. Der Dokumentarfilm entsteht seit Sommer 2021 als Teil einer Langzeitdokumentation. Co-Regie.
